@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1423675407 source:c:\users\benzo_000\desktop\c plus plus + +\hangman\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<ctime>
+	<cctype>
+

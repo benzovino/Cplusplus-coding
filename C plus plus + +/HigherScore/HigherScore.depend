@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1423261412 source:c:\users\benzo_000\desktop\c plus plus + +\higherscore\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<ctime>
+	<cstdlib>
+

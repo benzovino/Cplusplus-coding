@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1423866702 source:c:\users\benzo_000\desktop\c plus plus + +\inclassassignment\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<ctime>
+	<cctype>
+	<cstdlib>
+
